@@ -757,7 +757,7 @@
       "save_path": "default",
       "description": "Negative Embed",
       "reference": "https://civitai.com/models/13747/3d-thick-coated",
-      "filename": "3dThickCoated_3dThickCoatedUPV4.ckpt",
+      "filename": "SimpleNegative.pt",
       "url": "https://civitai.com/api/download/models/25080"
     },
     {
@@ -767,7 +767,7 @@
       "save_path": "default",
       "description": "Negative Embed",
       "reference": "https://civitai.com/models/18569?modelVersionId=22031",
-      "filename": "cartoonish_v1.safetensors",
+      "filename": "antiSketch.pt",
       "url": "https://civitai.com/api/download/models/22031"
     },
     {
@@ -1027,7 +1027,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/15446/terada-tera-art-style-lora",
-      "filename": "N/A",
+      "filename": "TeradaTera.safetensors",
       "url": "https://civitai.com/api/download/models/18212"
     },
     {
@@ -1037,7 +1037,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/11794/gyokai-ononoimoko-art-style-lora",
-      "filename": "N/A",
+      "filename": "ononoimoko.safetensors",
       "url": "https://civitai.com/api/download/models/13937"
     },
     {
@@ -1047,7 +1047,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/12190/mochizuki-kei-art-style-lora",
-      "filename": "N/A",
+      "filename": "MochizukiKei.safetensors",
       "url": "https://civitai.com/api/download/models/14378"
     },
     {
@@ -1057,7 +1057,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/12218/nou-art-style-lora",
-      "filename": "N/A",
+      "filename": "Nou(KairikiBear).safetensors",
       "url": "https://civitai.com/api/download/models/18093"
     },
     {
@@ -1067,7 +1067,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/16695/matans-style-v20",
-      "filename": "N/A",
+      "filename": "ma*****tan.safetensors",
       "url": "https://civitai.com/api/download/models/24622"
     },
     {
@@ -1077,7 +1077,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/19177/loish-style",
-      "filename": "N/A",
+      "filename": "Loish.safetensors",
       "url": "https://civitai.com/api/download/models/22757"
     },
     {
@@ -1087,7 +1087,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/7741/jk-style",
-      "filename": "N/A",
+      "filename": "JKStyle.safetensors",
       "url": "https://civitai.com/api/download/models/9124"
     },
     {
@@ -1097,7 +1097,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/7227/urushi",
-      "filename": "N/A",
+      "filename": "Urushi.safetensors",
       "url": "https://civitai.com/api/download/models/24272"
     },
     {
@@ -1107,7 +1107,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/17305/lohaloconlora-uekura-eku-style",
-      "filename": "N/A",
+      "filename": "uekura.safetensors",
       "url": "https://civitai.com/api/download/models/29525"
     },
     {
@@ -1117,7 +1117,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/21133/sakimichan-style",
-      "filename": "N/A",
+      "filename": "sakimichan.safetensors",
       "url": "https://civitai.com/api/download/models/32445"
     },
     {
@@ -1127,7 +1127,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/22992/chichi-style",
-      "filename": "N/A",
+      "filename": "chichistyle.safetensors",
       "url": "https://civitai.com/api/download/models/32033"
     },
     {
@@ -1137,7 +1137,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/26751/fake-van-gogh-style",
-      "filename": "N/A",
+      "filename": "fakevangogh.safetensors",
       "url": "https://civitai.com/api/download/models/32017"
     },
     {
@@ -1147,7 +1147,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/34683/clonion-style-lora",
-      "filename": "N/A",
+      "filename": "clonionstyle.safetensors",
       "url": "https://civitai.com/api/download/models/46443"
     },
     {
@@ -1157,7 +1157,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/24301/neonbeat-artstyle-lora",
-      "filename": "N/A",
+      "filename": "neonbeat.safetensors",
       "url": "https://civitai.com/api/download/models/29050"
     },
     {
@@ -1167,7 +1167,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/23898/gopheriotastyle",
-      "filename": "N/A",
+      "filename": "GopherIotaStyle.safetensors",
       "url": "https://civitai.com/api/download/models/28560"
     },
     {
@@ -1177,7 +1177,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/22482/lemudon-style",
-      "filename": "N/A",
+      "filename": "Lemudon.safetensors",
       "url": "https://civitai.com/api/download/models/26844"
     },
     {
@@ -1187,7 +1187,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/22397/loconlora-mikan-style",
-      "filename": "N/A",
+      "filename": "MikanStyle.safetensors",
       "url": "https://civitai.com/api/download/models/26738"
     },
     {
@@ -1197,7 +1197,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/21807/ken-sugimori-1990s-classic-pokemon-trainers-style",
-      "filename": "N/A",
+      "filename": "KenSugimori1990s.safetensors",
       "url": "https://civitai.com/api/download/models/26028"
     },
     {
@@ -1207,7 +1207,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/18757/ilya-kuvshinov-lora",
-      "filename": "N/A",
+      "filename": "IlyaKuvshinov.safetensors",
       "url": "https://civitai.com/api/download/models/22268"
     },
     {
@@ -1217,7 +1217,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/14159/haruno168-style-lora",
-      "filename": "N/A",
+      "filename": "haruno_168.safetensors",
       "url": "https://civitai.com/api/download/models/16664"
     },
     {
@@ -1227,7 +1227,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/4776/yoshitaka-amano-style-lora",
-      "filename": "N/A",
+      "filename": "YoshitakaAmano.safetensors",
       "url": "https://civitai.com/api/download/models/63343"
     },
     {
@@ -1237,7 +1237,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/5287/tetsuya-nomura-kingdom-hearts-final-fantasy-style-lora",
-      "filename": "N/A",
+      "filename": "TetsuyaNomura.safetensors",
       "url": "https://civitai.com/api/download/models/6130"
     },
     {
@@ -1247,7 +1247,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/18051/bacunstyle",
-      "filename": "N/A",
+      "filename": "Bacun.safetensors",
       "url": "https://civitai.com/api/download/models/21340"
     },
     {
@@ -1257,7 +1257,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/16200/alglold-style-of",
-      "filename": "N/A",
+      "filename": "ALGL.safetensors",
       "url": "https://civitai.com/api/download/models/19133"
     },
     {
@@ -1267,7 +1267,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/16039/loconlora-nardack-style",
-      "filename": "N/A",
+      "filename": "Nardack.safetensors",
       "url": "https://civitai.com/api/download/models/18933"
     },
     {
@@ -1277,7 +1277,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/15788/namoridane",
-      "filename": "N/A",
+      "filename": "namoridane.safetensors",
       "url": "https://civitai.com/api/download/models/18811"
     },
     {
@@ -1287,7 +1287,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/14879/rizdraws-style-lora",
-      "filename": "N/A",
+      "filename": "Rizdraws.safetensors",
       "url": "https://civitai.com/api/download/models/17531"
     },
     {
@@ -1297,7 +1297,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/7893/rolua-style-lora",
-      "filename": "N/A",
+      "filename": "Rolua.safetensors",
       "url": "https://civitai.com/api/download/models/9307"
     },
     {
@@ -1307,7 +1307,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/10376/umemaro-or-style-lora-191",
-      "filename": "N/A",
+      "filename": "Umemaro.safetensors",
       "url": "https://civitai.com/api/download/models/12337"
     },
     {
@@ -1317,7 +1317,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/11648/ixy-art-style-lora",
-      "filename": "N/A",
+      "filename": "IxyArt.safetensors",
       "url": "https://civitai.com/api/download/models/13769"
     },
     {
@@ -1327,7 +1327,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/9922/komowata-haruka-chibi-art-style-lora",
-      "filename": "N/A",
+      "filename": "KomowataHaruka.safetensors",
       "url": "https://civitai.com/api/download/models/14467"
     },
     {
@@ -1337,7 +1337,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/5280/tokiame-style-thick-outlines-lora",
-      "filename": "N/A",
+      "filename": "TOKIAME.safetensors",
       "url": "https://civitai.com/api/download/models/6123"
     },
     {
@@ -1347,7 +1347,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/13517/lam-ramdayo-style-lora",
-      "filename": "N/A",
+      "filename": "LAM.safetensors",
       "url": "https://civitai.com/api/download/models/17710"
     },
     {
@@ -1357,7 +1357,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/8479/mika-pikazo-style-lora",
-      "filename": "N/A",
+      "filename": "MikaPikazo.safetensors",
       "url": "https://civitai.com/api/download/models/9996"
     },
     {
@@ -1367,7 +1367,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/10809/toru8p-keke-artstyle",
-      "filename": "N/A",
+      "filename": "KekeStyle.safetensors",
       "url": "https://civitai.com/api/download/models/22278"
     },
     {
@@ -1377,7 +1377,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/24641/khyle-style-definitive-72mb",
-      "filename": "N/A",
+      "filename": "khyle.safetensors",
       "url": "https://civitai.com/api/download/models/29479"
     },
     {
@@ -1387,7 +1387,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/24359/akabur-style-lora",
-      "filename": "N/A",
+      "filename": "Akabur.safetensors",
       "url": "https://civitai.com/api/download/models/29119"
     },
     {
@@ -1397,7 +1397,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/24320/style-under-jrpencil",
-      "filename": "N/A",
+      "filename": "StyleunderJrpencil.safetensors",
       "url": "https://civitai.com/api/download/models/29074"
     },
     {
@@ -1407,7 +1407,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/23426/feef-artstyle",
-      "filename": "N/A",
+      "filename": "Feef.safetensors",
       "url": "https://civitai.com/api/download/models/27971"
     },
     {
@@ -1417,7 +1417,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/7304/darkcookie-style-lora",
-      "filename": "N/A",
+      "filename": "Darkcookie.safetensors",
       "url": "https://civitai.com/api/download/models/8587"
     },
     {
@@ -1427,7 +1427,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/12765/good-day-girl-style",
-      "filename": "N/A",
+      "filename": "Gooddaygirlstyle.safetensors",
       "url": "https://civitai.com/api/download/models/15046"
     },
     {
@@ -1437,7 +1437,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/12888/bonenig-style-lora",
-      "filename": "N/A",
+      "filename": "BoneNig.safetensors",
       "url": "https://civitai.com/api/download/models/15183"
     },
     {
@@ -1447,7 +1447,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/7080/enaic31-artstyle-lora",
-      "filename": "N/A",
+      "filename": "Enaic31.safetensors",
       "url": "https://civitai.com/api/download/models/8326"
     },
     {
@@ -1457,7 +1457,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/24892/kitty-puddin-aka-sinner-style",
-      "filename": "N/A",
+      "filename": "kittypuddin.safetensors",
       "url": "https://civitai.com/api/download/models/31414"
     },
     {
@@ -1467,7 +1467,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/20834/esthetic-maza-style",
-      "filename": "N/A",
+      "filename": "Mazastyle.safetensors",
       "url": "https://civitai.com/api/download/models/24798"
     },
     {
@@ -1477,7 +1477,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/22279/kamepan-style-lora",
-      "filename": "N/A",
+      "filename": "Kamepan.safetensors",
       "url": "https://civitai.com/api/download/models/50456"
     },
     {
@@ -1487,7 +1487,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/22300/op-na-yarou-anime-style",
-      "filename": "N/A",
+      "filename": "Opnayarou.safetensors",
       "url": "https://civitai.com/api/download/models/26626"
     },
     {
@@ -1497,7 +1497,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/17405/andava-style-lora",
-      "filename": "N/A",
+      "filename": "Andava.safetensors",
       "url": "https://civitai.com/api/download/models/20576"
     },
     {
@@ -1507,7 +1507,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/7090/john-kafka-artstyle-lora",
-      "filename": "N/A",
+      "filename": "JohnKafka.safetensors",
       "url": "https://civitai.com/api/download/models/8334"
     },
     {
@@ -1517,7 +1517,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/9220/optionaltypo-style-lora",
-      "filename": "N/A",
+      "filename": "OptionalTypo.safetensors",
       "url": "https://civitai.com/api/download/models/10931"
     },
     {
@@ -1527,7 +1527,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/9929/slugbox-style-lora",
-      "filename": "N/A",
+      "filename": "Slugbox.safetensors",
       "url": "https://civitai.com/api/download/models/11798"
     },
     {
@@ -1537,7 +1537,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/11608/motomurabito-style-lora",
-      "filename": "N/A",
+      "filename": "Motomurabito.safetensors",
       "url": "https://civitai.com/api/download/models/13728"
     },
     {
@@ -1547,7 +1547,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/6638/samdoesarts-sam-yang-style-lora",
-      "filename": "N/A",
+      "filename": "SamDoesArts.safetensors",
       "url": "https://civitai.com/api/download/models/7804"
     },
     {
@@ -1557,7 +1557,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/8112/yaro-artstyle-lora",
-      "filename": "N/A",
+      "filename": "Yaro.safetensors",
       "url": "https://civitai.com/api/download/models/9577"
     },
     {
@@ -1567,7 +1567,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/4857/akira-toriyama-style-lora",
-      "filename": "N/A",
+      "filename": "ToriyamaAkira.safetensors",
       "url": "https://civitai.com/api/download/models/5737"
     },
     {
@@ -1577,7 +1577,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/58983/waves-art-style-or-lora",
-      "filename": "N/A",
+      "filename": "wavesartstyle.safetensors",
       "url": "https://civitai.com/api/download/models/63436"
     },
     {
@@ -1587,7 +1587,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/49886/wojak-style-lora",
-      "filename": "N/A",
+      "filename": "Wojack.safetensors",
       "url": "https://civitai.com/api/download/models/63309"
     },
     {
@@ -1597,7 +1597,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/50159/makaroll-style-lora",
-      "filename": "N/A",
+      "filename": "makaroll.safetensors",
       "url": "https://civitai.com/api/download/models/54692"
     },
     {
@@ -1607,7 +1607,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/57866/hiramedousa-style",
-      "filename": "N/A",
+      "filename": "hiramedousa.safetensors",
       "url": "https://civitai.com/api/download/models/62311"
     },
     {
@@ -1617,7 +1617,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/45570/drunkoak-artist-style",
-      "filename": "N/A",
+      "filename": "Drunkoak.safetensors",
       "url": "https://civitai.com/api/download/models/50197"
     },
     {
@@ -1627,7 +1627,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/59214/dropkun-style",
-      "filename": "N/A",
+      "filename": "Dropkun.safetensors",
       "url": "https://civitai.com/api/download/models/63662"
     },
     {
@@ -1637,7 +1637,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/59119/tori-style",
-      "filename": "N/A",
+      "filename": "ToriStyle.safetensors",
       "url": "https://civitai.com/api/download/models/63587"
     },
     {
@@ -1647,7 +1647,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/11701/yoneyama-mai-style",
-      "filename": "N/A",
+      "filename": "YoneyamaMai.safetensors",
       "url": "https://civitai.com/api/download/models/26660"
     },
     {
@@ -1657,7 +1657,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/21722/vivid-impactful-style-yoneyama-mai-style-likeness-loralocon",
-      "filename": "N/A",
+      "filename": "VividImpactfulStyle(MaiLike).safetensors",
       "url": "https://civitai.com/api/download/models/33016"
     },
     {
@@ -1667,7 +1667,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/6025/persona-catherine-soejima-shigenori-style-lora",
-      "filename": "N/A",
+      "filename": "SoejimaShigenori.safetensors",
       "url": "https://civitai.com/api/download/models/7023"
     },
     {
@@ -1677,7 +1677,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/12325/vanripperart-style-lora",
-      "filename": "N/A",
+      "filename": "Vanripperart.safetensors",
       "url": "https://civitai.com/api/download/models/14534"
     },
     {
@@ -1687,7 +1687,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/5558/akihiko-yoshida-bravely-default-ff-tactics-nier-style-lora",
-      "filename": "N/A",
+      "filename": "AkihikoYoshida.safetensors",
       "url": "https://civitai.com/api/download/models/6469"
     },
     {
@@ -1697,7 +1697,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/12239/nukunuku-nigirimeshi-art-style-lora",
-      "filename": "N/A",
+      "filename": "NukunukuNigirimeshi.safetensors",
       "url": "https://civitai.com/api/download/models/14433"
     },
     {
@@ -1707,7 +1707,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/13350/neg-style",
-      "filename": "N/A",
+      "filename": "Neg.safetensors",
       "url": "https://civitai.com/api/download/models/15732"
     },
     {
@@ -1717,7 +1717,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/13541/lentiyay-style-lora",
-      "filename": "N/A",
+      "filename": "Lentiyay.safetensors",
       "url": "https://civitai.com/api/download/models/15952"
     },
     {
@@ -1727,7 +1727,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/23037/nel-cookie",
-      "filename": "N/A",
+      "filename": "NEL.safetensors",
       "url": "https://civitai.com/api/download/models/27514"
     },
     {
@@ -1737,7 +1737,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/13694/mery-art-style-lora",
-      "filename": "N/A",
+      "filename": "Mery.safetensors",
       "url": "https://civitai.com/api/download/models/16130"
     },
     {
@@ -1747,7 +1747,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/7890/mishi-pastel-style",
-      "filename": "N/A",
+      "filename": "MishiStyle.safetensors",
       "url": "https://civitai.com/api/download/models/9303"
     },
     {
@@ -1757,7 +1757,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/17196/atelier-gons-style",
-      "filename": "N/A",
+      "filename": "AtelierGONS.safetensors",
       "url": "https://civitai.com/api/download/models/20301"
     },
     {
@@ -1767,7 +1767,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/10864/aetherion-style-lora",
-      "filename": "N/A",
+      "filename": "Aetherion.safetensors",
       "url": "https://civitai.com/api/download/models/12890"
     },
     {
@@ -1777,7 +1777,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/7315/mile-off8mile-278-style-lora",
-      "filename": "N/A",
+      "filename": "off8mile278Style.safetensors",
       "url": "https://civitai.com/api/download/models/12798"
     },
     {
@@ -1787,7 +1787,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/18112/cute-2d-style",
-      "filename": "N/A",
+      "filename": "Cute2DStyle.safetensors",
       "url": "https://civitai.com/api/download/models/21422"
     },
     {
@@ -1797,7 +1797,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/57954/fua-yuu-style",
-      "filename": "N/A",
+      "filename": "FuaYuu.safetensors",
       "url": "https://civitai.com/api/download/models/62416"
     },
     {
@@ -1807,7 +1807,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/56528/cierra-style",
-      "filename": "N/A",
+      "filename": "Cierra.safetensors",
       "url": "https://civitai.com/api/download/models/60947"
     },
     {
@@ -1817,7 +1817,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/56101/dledumb-style-operation-pure-love",
-      "filename": "N/A",
+      "filename": "Dledumbstyle.safetensors",
       "url": "https://civitai.com/api/download/models/60500"
     },
     {
@@ -1827,7 +1827,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/55938/korukoruno-style",
-      "filename": "N/A",
+      "filename": "korukoruno.safetensors",
       "url": "https://civitai.com/api/download/models/60333"
     },
     {
@@ -1837,7 +1837,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/55650/mdfan-artist-style",
-      "filename": "N/A",
+      "filename": "Mdf_an.safetensors",
       "url": "https://civitai.com/api/download/models/60055"
     },
     {
@@ -1847,7 +1847,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/55330/puparia-style-lora",
-      "filename": "N/A",
+      "filename": "Puparia.safetensors",
       "url": "https://civitai.com/api/download/models/59707"
     },
     {
@@ -1857,7 +1857,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/55029/sheyatin-style",
-      "filename": "N/A",
+      "filename": "sheyatin.safetensors",
       "url": "https://civitai.com/api/download/models/59417"
     },
     {
@@ -1867,7 +1867,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/54424/pina-artstyle-lora",
-      "filename": "N/A",
+      "filename": "PinaArtstyle.safetensors",
       "url": "https://civitai.com/api/download/models/58787"
     },
     {
@@ -1877,7 +1877,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/53333/chroma-style",
-      "filename": "N/A",
+      "filename": "ChromaStyle.safetensors",
       "url": "https://civitai.com/api/download/models/57702"
     },
     {
@@ -1887,7 +1887,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/57398/style-splashbrush",
-      "filename": "N/A",
+      "filename": "Splashbrush.safetensors",
       "url": "https://civitai.com/api/download/models/61823"
     },
     {
@@ -1897,7 +1897,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/57594/fluffydango-artist-style",
-      "filename": "N/A",
+      "filename": "Fluffydango.safetensors",
       "url": "https://civitai.com/api/download/models/62022"
     },
     {
@@ -1907,7 +1907,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/57604/gangguru-style-by-lora-factory",
-      "filename": "N/A",
+      "filename": "GangGuru.safetensors",
       "url": "https://civitai.com/api/download/models/62034"
     },
     {
@@ -1917,7 +1917,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/7955/oda-non-style-lora",
-      "filename": "N/A",
+      "filename": "OdaNon.safetensors",
       "url": "https://civitai.com/api/download/models/9379"
     },
     {
@@ -1927,7 +1927,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/57305/gharliera-style-lora",
-      "filename": "N/A",
+      "filename": "gharliera.safetensors",
       "url": "https://civitai.com/api/download/models/61712"
     },
     {
@@ -1937,7 +1937,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/55786/3q-style-by-lora-factory",
-      "filename": "N/A",
+      "filename": "3QStyle.safetensors",
       "url": "https://civitai.com/api/download/models/60182"
     },
     {
@@ -1947,7 +1947,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/46768/yukikaoristyle",
-      "filename": "N/A",
+      "filename": "YukiKaoriStyle.safetensors",
       "url": "https://civitai.com/api/download/models/58586"
     },
     {
@@ -1957,7 +1957,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/53080/tico-style",
-      "filename": "N/A",
+      "filename": "TicoStyle.safetensors",
       "url": "https://civitai.com/api/download/models/57450"
     },
     {
@@ -1967,7 +1967,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/53174/doyora-style-lora",
-      "filename": "N/A",
+      "filename": "Doyora.safetensors",
       "url": "https://civitai.com/api/download/models/57554"
     },
     {
@@ -1977,7 +1977,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/24459/bumblesteak-style",
-      "filename": "N/A",
+      "filename": "Bumblesteak.safetensors",
       "url": "https://civitai.com/api/download/models/57099"
     },
     {
@@ -1987,7 +1987,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/51986/gigzagu123-style",
-      "filename": "N/A",
+      "filename": "gigzagu123.safetensors",
       "url": "https://civitai.com/api/download/models/56443"
     },
     {
@@ -1997,7 +1997,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/50239/sheya-style",
-      "filename": "N/A",
+      "filename": "Sheya.safetensors",
       "url": "https://civitai.com/api/download/models/54766"
     },
     {
@@ -2007,7 +2007,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/50288/takato-yamamoto-style",
-      "filename": "N/A",
+      "filename": "TakatoYamamoto.safetensors",
       "url": "https://civitai.com/api/download/models/54820"
     },
     {
@@ -2017,7 +2017,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/50577/style-rasusurasu-lora-v01",
-      "filename": "N/A",
+      "filename": "rasusurasu.safetensors",
       "url": "https://civitai.com/api/download/models/55091"
     },
     {
@@ -2027,7 +2027,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/8733/lasterk-style-lora",
-      "filename": "N/A",
+      "filename": "Lasterk.safetensors",
       "url": "https://civitai.com/api/download/models/18536"
     },
     {
@@ -2037,7 +2037,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/48156/ibukichi-artist-style",
-      "filename": "N/A",
+      "filename": "Ibukichi.safetensors",
       "url": "https://civitai.com/api/download/models/52770"
     },
     {
@@ -2047,7 +2047,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/47272/massakasama-style",
-      "filename": "N/A",
+      "filename": "Massakasama.safetensors",
       "url": "https://civitai.com/api/download/models/51849"
     },
     {
@@ -2057,7 +2057,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/45559/rubens-style",
-      "filename": "N/A",
+      "filename": "PaulRubens.safetensors",
       "url": "https://civitai.com/api/download/models/50183"
     },
     {
@@ -2067,7 +2067,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/44627/kionant-artist-style",
-      "filename": "N/A",
+      "filename": "Kionant.safetensors",
       "url": "https://civitai.com/api/download/models/49257"
     },
     {
@@ -2077,7 +2077,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/44389/aidairo-style",
-      "filename": "N/A",
+      "filename": "AidaIro.safetensors",
       "url": "https://civitai.com/api/download/models/49019"
     },
     {
@@ -2087,7 +2087,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/41423/hungry-clicker-style-lora",
-      "filename": "N/A",
+      "filename": "HungryClicker.safetensors",
       "url": "https://civitai.com/api/download/models/47077"
     },
     {
@@ -2097,7 +2097,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/40997/moonproject-style",
-      "filename": "N/A",
+      "filename": "Moon_Project.safetensors",
       "url": "https://civitai.com/api/download/models/46067"
     },
     {
@@ -2107,7 +2107,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/35479/guihuagao-some-sort-of-style-lora",
-      "filename": "N/A",
+      "filename": "Guihuagao.safetensors",
       "url": "https://civitai.com/api/download/models/41705"
     },
     {
@@ -2117,7 +2117,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/33601/defaultz-style",
-      "filename": "N/A",
+      "filename": "Defaultz.safetensors",
       "url": "https://civitai.com/api/download/models/39895"
     },
     {
@@ -2127,7 +2127,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/31746/quan-avatar-art-style-lora",
-      "filename": "N/A",
+      "filename": "QuAnAvatarArt.safetensors",
       "url": "https://civitai.com/api/download/models/39188"
     },
     {
@@ -2137,7 +2137,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/28170/komatsuzaki-rui-danganronpa-artist-style",
-      "filename": "N/A",
+      "filename": "KomatsuzakiRui.safetensors",
       "url": "https://civitai.com/api/download/models/33940"
     },
     {
@@ -2147,7 +2147,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/5126/torino-aqua-style-lora",
-      "filename": "N/A",
+      "filename": "TorinoAqua.safetensors",
       "url": "https://civitai.com/api/download/models/5940"
     },
     {
@@ -2157,7 +2157,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/4844/ratatatat74-style-lora",
-      "filename": "N/A",
+      "filename": "ratatatat74.safetensors",
       "url": "https://civitai.com/api/download/models/5571"
     },
     {
@@ -2167,7 +2167,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/16282/metata-style",
-      "filename": "N/A",
+      "filename": "Metata.safetensors",
       "url": "https://civitai.com/api/download/models/19227"
     },
     {
@@ -2177,7 +2177,7 @@
       "save_path": "default",
       "description": "Artist Style",
       "reference": "https://civitai.com/models/23279/style15",
-      "filename": "N/A",
+      "filename": "Style15.safetensors",
       "url": "https://civitai.com/api/download/models/27801"
     }
   ]  
