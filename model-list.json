@@ -1,0 +1,514 @@
+{
+  "models": [
+    {
+      "name": "AnythingV3",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/66/anything-v3",
+      "filename": "anythingV3_fp16.ckpt",
+      "url": "https://civitai.com/api/download/models/75"
+    },
+    {
+      "name": "ReV Animated",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/7371/rev-animated",
+      "filename": "revAnimated_v122EOL.safetensors",
+      "url": "https://civitai.com/api/download/models/46846"
+    },
+    {
+      "name": "Counterfeit-V3",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/4468/counterfeit-v30",
+      "filename": "CounterfeitV30_v30.safetensors",
+      "url": "https://civitai.com/api/download/models/57618"
+    },
+    {
+      "name": "MeinaMix-V11",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/7240/meinamix",
+      "filename": "meinamix_meinaV11.safetensors",
+      "url": "https://civitai.com/api/download/models/119057"
+    },
+    {
+      "name": "ToonYou-Beta6",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/30240/toonyou",
+      "filename": "toonyou_beta6.safetensors",
+      "url": "https://civitai.com/api/download/models/125771"
+    },
+    {
+      "name": "ToonYou-JP",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/92834/toonyou-jp",
+      "filename": "toonyouJP_alpha1.safetensors",
+      "url": "https://civitai.com/api/download/models/98960"
+    },
+    {
+      "name": "SeekYou-Mikan",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/60572?modelVersionId=74057",
+      "filename": "seekyou_mikan.safetensors",
+      "url": "https://civitai.com/api/download/models/74057"
+    },
+    {
+      "name": "SeekYou-Momo",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/60572?modelVersionId=65036",
+      "filename": "seekyou_momo.safetensors",
+      "url": "https://civitai.com/api/download/models/65036"
+    },
+    {
+      "name": "ArteYou",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/83429/arteyou",
+      "filename": "arteyou_alpha1.safetensors",
+      "url": "https://civitai.com/api/download/models/88669"
+    },
+    {
+      "name": "AbyssOrangeMix3",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/9942/abyssorangemix3-aom3",
+      "filename": "abyssorangemix3AOM3_aom3a1b.safetensors",
+      "url": "https://civitai.com/api/download/models/17233"
+    },
+    {
+      "name": "Pastel-Mix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/5414/pastel-mix-stylized-anime-model",
+      "filename": "pastelMixStylizedAnime_pastelMixPrunedFP16.safetensors",
+      "url": "https://civitai.com/api/download/models/6297"
+    },
+    {
+      "name": "mixProYuki77mi",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/13039/mixproyuki77mi",
+      "filename": "mixproyuki77mi_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/15363"
+    },
+    {
+      "name": "ALLBoyMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/44430/allboymix",
+      "filename": "allboymix_v20.safetensors",
+      "url": "https://civitai.com/api/download/models/67744"
+    },
+    {
+      "name": "WolfBoys_2D",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/45092/wolfboys2d",
+      "filename": "wolfboys2D_v20.safetensors",
+      "url": "https://civitai.com/api/download/models/68509"
+    },
+    {
+      "name": "AingDiffusion",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/34553/aingdiffusion",
+      "filename": "aingdiffusion_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/191346"
+    },
+    {
+      "name": "Mistoon_Anime",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/24149/mistoonanime",
+      "filename": "mistoonAnime_v20.safetensors",
+      "url": "https://civitai.com/api/download/models/108545"
+    },
+    {
+      "name": "Mistoon_Emerald",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/28322/mistoonemerald",
+      "filename": "mistoonEmerald_v20.safetensors",
+      "url": "https://civitai.com/api/download/models/57368"
+    },
+    {
+      "name": "Mistoon_Ruby",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/26332/mistoonruby",
+      "filename": "mistoonRuby_v20.safetensors",
+      "url": "https://civitai.com/api/download/models/56962"
+    },
+    {
+      "name": "Mistoon_Sapphire",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/32022/mistoonsapphire",
+      "filename": "mistoonSapphire_v20.safetensors",
+      "url": "https://civitai.com/api/download/models/116574"
+    },
+    {
+      "name": "Mistoon_Amethyst",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/33707/mistoonamethyst",
+      "filename": "mistoonAmethyst_v20.safetensors",
+      "url": "https://civitai.com/api/download/models/56710"
+    },
+    {
+      "name": "Cetus-MixV4",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/6755?modelVersionId=78676",
+      "filename": "CetusMix_WhaleFall2.safetensors",
+      "url": "https://civitai.com/api/download/models/78676"
+    },
+    {
+      "name": "Corneo's 7th Heaven Mix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/4669/corneos-7th-heaven-mix",
+      "filename": "corneos7thHeavenMix_v2.safetensors",
+      "url": "https://civitai.com/api/download/models/6878"
+    },
+    {
+      "name": "CoffeeMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/40630?modelVersionId=53475",
+      "filename": "coffeemix_v20.safetensors",
+      "url": "https://civitai.com/api/download/models/53475"
+    },
+    {
+      "name": "Aurora",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/40199?modelVersionId=45601",
+      "filename": "aurora_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/45601"
+    },
+    {
+      "name": "ElegantMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/70417/elegantmix",
+      "filename": "elegantmix_v2.safetensors",
+      "url": "https://civitai.com/api/download/models/107317"
+    },
+    {
+      "name": "hello25DVintageAnime2.5",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/98018/hello25dvintageanime",
+      "filename": "hello25dvintageanime_V25.safetensors",
+      "url": "https://civitai.com/api/download/models/171449"
+    },
+    {
+      "name": "MIX-Pro-V4",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/7241/mix-pro-v4",
+      "filename": "mixProV4_v4.safetensors",
+      "url": "https://civitai.com/api/download/models/34559"
+    },
+    {
+      "name": "Arthemy Comics V5",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/54073?modelVersionId=166916",
+      "filename": "arthemyComics_v50.safetensors",
+      "url": "https://civitai.com/api/download/models/166916"
+    },
+    {
+      "name": "Aniflatmix V2",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/24387/aniflatmix-anime-flat-color-style-mix",
+      "filename": "aniflatmixAnimeFlatColorStyle_v20.safetensors",
+      "url": "https://civitai.com/api/download/models/40816"
+    },
+    {
+      "name": "CarDos Anime V2",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/25399/cardos-anime",
+      "filename": "cardosAnime_v20.safetensors",
+      "url": "https://civitai.com/api/download/models/43825"
+    },
+    {
+      "name": "AnyPastel",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/15024/anypastel-anything-v45-pastel-mix",
+      "filename": "anypastelAnythingV45_anypastelAnythingV45.safetensors",
+      "url": "https://civitai.com/api/download/models/17701"
+    },
+    {
+      "name": "Samaritan 3d Cartoon V3",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/81270?modelVersionId=117986",
+      "filename": "samaritan3dCartoon_v40SDXL.safetensors",
+      "url": "https://civitai.com/api/download/models/117986"
+    },
+    {
+      "name": "YabaL_Mix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/28648/yabalmix",
+      "filename": "yabalMix_v6.safetensors",
+      "url": "https://civitai.com/api/download/models/137190"
+    },
+    {
+      "name": "yden",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/18616/yden",
+      "filename": "yden_v30.safetensors",
+      "url": "https://civitai.com/api/download/models/50483"
+    },
+    {
+      "name": "Dark Sushi Mix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/24779/dark-sushi-mix-mix",
+      "filename": "darkSushiMixMix_225D.safetensors",
+      "url": "https://civitai.com/api/download/models/93208"
+    },
+    {
+      "name": "MoggleMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/50359/mogglemix",
+      "filename": "mogglemix_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/54888"
+    },
+    {
+      "name": "PupuMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/79729?modelVersionId=84551",
+      "filename": "pupumix_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/84551"
+    },
+    {
+      "name": "TabiBlend2.8",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/100728?modelVersionId=122697",
+      "filename": "tabiblend_36.safetensors",
+      "url": "https://civitai.com/api/download/models/107820"
+    },
+    {
+      "name": "T-anime-v4",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/69552/t-anime-v4-pruned",
+      "filename": "tAnimeV4Pruned_v40.safetensors",
+      "url": "https://civitai.com/api/download/models/105780"
+    },
+    {
+      "name": "HyujiMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/97617?modelVersionId=104354",
+      "filename": "hyujimix_V10.safetensors",
+      "url": "https://civitai.com/api/download/models/104354"
+    },
+    {
+      "name": "ImpureRealism",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/95278/impurerealism",
+      "filename": "impurerealism_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/101679"
+    },
+    {
+      "name": "ForgottenMix - The Novelist - 2D",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/81644?modelVersionId=86640",
+      "filename": "forgottenmixTheNovelist_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/86640"
+    },
+    {
+      "name": "PixieMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/93851?modelVersionId=100105",
+      "filename": "pixiemix_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/100105"
+    },
+    {
+      "name": "BeelMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/87838/beelmix",
+      "filename": "beelmix_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/93484"
+    },
+    {
+      "name": "Manmaru mix V3",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/86277/manmaru-mix",
+      "filename": "manmaruMix_v30.safetensors",
+      "url": "https://civitai.com/api/download/models/91735"
+    },
+    {
+      "name": "AnyLoRA",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/23900?modelVersionId=28562",
+      "filename": "anyloraCheckpoint_bakedvaeBlessedFp16.safetensors",
+      "url": "https://civitai.com/api/download/models/28562"
+    },
+    {
+      "name": "AnyLoRA Anime Mix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/84586?modelVersionId=89927",
+      "filename": "aamAnyloraAnimeMixAnime_v1.safetensors",
+      "url": "https://civitai.com/api/download/models/89927"
+    },
+    {
+      "name": "Girl Next Door",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/71098?modelVersionId=75799",
+      "filename": "girlNextDoor_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/75799"
+    },
+    {
+      "name": "哈哈哈哈哈哈哈",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/64218",
+      "filename": "23512-2126-哈哈哈哈哈-half-fp16-no-ema.safetensors",
+      "url": "https://civitai.com/api/download/models/68800"
+    },
+    {
+      "name": "Curiosity Mix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/76848?modelVersionId=81624",
+      "filename": "curiosityMix_v01.safetensors",
+      "url": "https://civitai.com/api/download/models/81624"
+    },
+    {
+      "name": "WhiteMix V1. W60 Backed VAE",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "/tmp/models/tmpcheckpoints/",
+      "description": "Anime Style Checkpoint",
+      "reference": "https://civitai.com/models/99928/whitemix-v1-w60-backed-vae",
+      "filename": "whitemixV1W60Backed_v10Pruned.safetensors",
+      "url": "https://civitai.com/api/download/models/107408"
+    }
+  ]  
+}
