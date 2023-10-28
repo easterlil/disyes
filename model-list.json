@@ -509,6 +509,1676 @@
       "reference": "https://civitai.com/models/99928/whitemix-v1-w60-backed-vae",
       "filename": "whitemixV1W60Backed_v10Pruned.safetensors",
       "url": "https://civitai.com/api/download/models/107408"
+    },
+    {
+      "name": "3D Thick coated",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/13747/3d-thick-coated",
+      "filename": "3dThickCoated_3dThickCoatedUPV4.ckpt",
+      "url": "https://civitai.com/api/download/models/25080"
+    },
+    {
+      "name": "Cartoonish",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/18569?modelVersionId=22031",
+      "filename": "cartoonish_v1.safetensors",
+      "url": "https://civitai.com/api/download/models/22031"
+    },
+    {
+      "name": "ChikMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/9871/chikmix",
+      "filename": "chikmix_V3.safetensors",
+      "url": "https://civitai.com/api/download/models/59409"
+    },
+    {
+      "name": "DucHaiten-StyleLikeMe",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/26069?modelVersionId=47085",
+      "filename": "duchaitenStylelikeme_v15Fp16NoEma.safetensors",
+      "url": "https://civitai.com/api/download/models/47085"
+    },
+    {
+      "name": "FaceBombMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/7152?modelVersionId=25993",
+      "filename": "kenshi_01.safetensors",
+      "url": "https://civitai.com/api/download/models/25993"
+    },
+    {
+      "name": "Kenshi",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/3850/kenshi",
+      "filename": "facebombmix_v1Bakedvae.safetensors",
+      "url": "https://civitai.com/api/download/models/6792"
+    },
+    {
+      "name": "MeinaUnreal-V4.1",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/18798/meinaunreal",
+      "filename": "meinaunreal_v41.safetensors",
+      "url": "https://civitai.com/api/download/models/67468"
+    },
+    {
+      "name": "Perfect World",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/8281?modelVersionId=77276",
+      "filename": "perfectWorld_v6Baked.safetensors",
+      "url": "https://civitai.com/api/download/models/77276"
+    },
+    {
+      "name": "Synergix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/54592/synergix",
+      "filename": "synergix_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/58959"
+    },
+    {
+      "name": "Umi AI- Mythology and Babes",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/6077?modelVersionId=15617",
+      "filename": "UmiAIMythologyAndBabes_macrossAnimeUltimate1.safetensors",
+      "url": "https://civitai.com/api/download/models/15617"
+    },
+    {
+      "name": "YA3DAM",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Semi-Real Checkpoint",
+      "reference": "https://civitai.com/models/87777/not-another-3d-anime-mix-mega-ultra-supreme-or-na3dam",
+      "filename": "notANOTHER3DANIMEMIXMEGA_ya3damV1.safetensors",
+      "url": "https://civitai.com/api/download/models/93420"
+    },
+    {
+      "name": "DreamlabsOil_v2",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Paint/Trad Checkpoint",
+      "reference": "https://civitai.com/models/50718/dreamlabsoilv2",
+      "filename": "dreamlabsoilV2_v2.safetensors",
+      "url": "https://civitai.com/api/download/models/55228"
+    },
+    {
+      "name": "Oil painting",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Paint/Trad Checkpoint",
+      "reference": "https://civitai.com/models/20184/oil-painting",
+      "filename": "oilPainting_oilPaintingV10.safetensors",
+      "url": "https://civitai.com/api/download/models/23979"
+    },
+    {
+      "name": "Perfect Sketchbook",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Paint/Trad Checkpoint",
+      "reference": "https://civitai.com/models/27968?modelVersionId=34584",
+      "filename": "perfectSketchbook_sketchyanimestyle.safetensors",
+      "url": "https://civitai.com/api/download/models/34584"
+    },
+    {
+      "name": "Pulp",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Paint/Trad Checkpoint",
+      "reference": "https://civitai.com/models/32902?modelVersionId=39275",
+      "filename": "pulp_v10.safetensors",
+      "url": "https://civitai.com/api/download/models/39275"
+    },
+    {
+      "name": "A-Zovya Photoreal",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Realistic Checkpoint",
+      "reference": "https://civitai.com/models/57319?modelVersionId=99805",
+      "filename": "aZovyaPhotoreal_v2.safetensors",
+      "url": "https://civitai.com/api/download/models/99805"
+    },
+    {
+      "name": "AbsoluteReality",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Realistic Checkpoint",
+      "reference": "https://civitai.com/models/81458/absolutereality",
+      "filename": "absolutereality_v181.safetensors",
+      "url": "https://civitai.com/api/download/models/132760"
+    },
+    {
+      "name": "ChilloutMix",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Realistic Checkpoint",
+      "reference": "https://civitai.com/models/6424/chilloutmix",
+      "filename": "chilloutmix_NiPrunedFp32Fix.safetensors",
+      "url": "https://civitai.com/api/download/models/11745"
+    },
+    {
+      "name": "Deliberate-V3",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Realistic Checkpoint",
+      "reference": "https://civitai.com/models/4823/deliberate",
+      "filename": "deliberate_v3.safetensors",
+      "url": "https://civitai.com/api/download/models/156110"
+    },
+    {
+      "name": "DreamShaper",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Realistic Checkpoint",
+      "reference": "https://civitai.com/models/4384?modelVersionId=128713",
+      "filename": "dreamshaper_8.safetensors",
+      "url": "https://civitai.com/api/download/models/128713"
+    },
+    {
+      "name": "Lyriel-V1.6",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Realistic Checkpoint",
+      "reference": "https://civitai.com/models/22922/lyriel",
+      "filename": "lyriel_v16.safetensors",
+      "url": "https://civitai.com/api/download/models/72396"
+    },
+    {
+      "name": "Protogen x3.4",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Realistic Checkpoint",
+      "reference": "https://civitai.com/models/3666?modelVersionId=4048",
+      "filename": "protogenX34Photorealism_protogenX34.safetensors",
+      "url": "https://civitai.com/api/download/models/4048"
+    },
+    {
+      "name": "Realistic Vision V5.1",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Realistic Checkpoint",
+      "reference": "https://civitai.com/models/4201/realistic-vision-v51",
+      "filename": "realisticVisionV51_v51VAE.safetensors",
+      "url": "https://civitai.com/api/download/models/130072"
+    },
+    {
+      "name": "majicMIX realistic",
+      "type": "checkpoints",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Realistic Checkpoint",
+      "reference": "https://civitai.com/models/43331/majicmix-realistic",
+      "filename": "majicmixRealistic_v7.safetensors",
+      "url": "https://civitai.com/api/download/models/176425"
+    },
+    {
+      "name": "SimpleNegative",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/13747/3d-thick-coated",
+      "filename": "3dThickCoated_3dThickCoatedUPV4.ckpt",
+      "url": "https://civitai.com/api/download/models/25080"
+    },
+    {
+      "name": "antiSketch",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/18569?modelVersionId=22031",
+      "filename": "cartoonish_v1.safetensors",
+      "url": "https://civitai.com/api/download/models/22031"
+    },
+    {
+      "name": "EasyNegative",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/7808/easynegative",
+      "filename": "easynegative.safetensors",
+      "url": "https://civitai.com/api/download/models/9208"
+    },
+    {
+      "name": "EasyNegativeV2",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/100191/ti-easynegativev2-textual-inversion-embedding",
+      "filename": "EasyNegativeV2.safetensors",
+      "url": "https://civitai.com/api/download/models/107234"
+    },
+    {
+      "name": "BadDream",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/72437/baddream-unrealisticdream-negative-embeddings",
+      "filename": "BadDream.pt",
+      "url": "https://civitai.com/api/download/models/77169?type=Model&format=PickleTensor"
+    },
+    {
+      "name": "UnrealisticDream",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/72437?modelVersionId=77173",
+      "filename": "UnrealisticDream.pt",
+      "url": "https://civitai.com/api/download/models/77173?type=Model&format=PickleTensor"
+    },
+    {
+      "name": "FastNegativeV2",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/71961/fast-negative-embedding-fastnegativev2?modelVersionId=94057",
+      "filename": "FastNegativeV2.pt",
+      "url": "https://civitai.com/api/download/models/94057"
+    },
+    {
+      "name": "Deep Negative",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/4629/deep-negative-v1x?modelVersionId=5637",
+      "filename": "ng_deepnegative_v1_64t.pt",
+      "url": "https://civitai.com/api/download/models/5637?type=Model&format=PickleTensor&size=full&fp=fp16"
+    },
+    {
+      "name": "bad_prompt",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/55700/badprompt-negative-embedding",
+      "filename": "bad_prompt_version2-neg.pt",
+      "url": "https://civitai.com/api/download/models/60095?type=Negative&format=Other"
+    },
+    {
+      "name": "Bad_artist",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/5224?modelVersionId=6056",
+      "filename": "By bad artist -neg.pt",
+      "url": "https://civitai.com/api/download/models/6056?type=Negative&format=Other"
+    },
+    {
+      "name": "badhandv4",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/16993/badhandv4-animeillustdiffusion",
+      "filename": "badhandv4.pt",
+      "url": "https://civitai.com/api/download/models/6056?type=Negative&format=Other"
+    },
+    {
+      "name": "Bad-Hands-5",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/116230/bad-hands-5",
+      "filename": "bad-hands-5.pt",
+      "url": "https://civitai.com/api/download/models/125849"
+    },
+    {
+      "name": "myself-badhand-v5",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Negative Embed",
+      "reference": "https://civitai.com/models/161005/myself-badhand-v5",
+      "filename": "myself-badhand-v5.pt",
+      "url": "https://civitai.com/api/download/models/181181"
+    },
+    {
+      "name": "GS-Masculine",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Gender Slider",
+      "reference": "https://civitai.com/models/89709?modelVersionId=95532",
+      "filename": "GS-Masculine.pt",
+      "url": "https://civitai.com/api/download/models/95532"
+    },
+    {
+      "name": "GS-Boyish",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Gender Slider",
+      "reference": "https://civitai.com/models/89709?modelVersionId=95611",
+      "filename": "GS-Boyish.pt",
+      "url": "https://civitai.com/api/download/models/95611"
+    },
+    {
+      "name": "GS-Girlish",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Gender Slider",
+      "reference": "https://civitai.com/models/89709?modelVersionId=96322",
+      "filename": "GS-Girlish.pt",
+      "url": "https://civitai.com/api/download/models/96322"
+    },
+    {
+      "name": "GS-Womanly",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Gender Slider",
+      "reference": "https://civitai.com/models/89709?modelVersionId=96916",
+      "filename": "GS-Womanly.pt",
+      "url": "https://civitai.com/api/download/models/96916"
+    },
+    {
+      "name": "GS-DeFeminize",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Gender Slider Neg",
+      "reference": "https://civitai.com/models/89709?modelVersionId=95500",
+      "filename": "GS-DeFeminize.pt",
+      "url": "https://civitai.com/api/download/models/95500"
+    },
+    {
+      "name": "GS-DeMasculate",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Gender Slider Neg",
+      "reference": "https://civitai.com/models/89709?modelVersionId=95959",
+      "filename": "GS-DeMasculate.pt",
+      "url": "https://civitai.com/api/download/models/95959"
+    },
+    {
+      "name": "AS-Adult",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Age Slider",
+      "reference": "https://civitai.com/models/65214?modelVersionId=75443",
+      "filename": "AS-Adult.pt",
+      "url": "https://civitai.com/api/download/models/75443"
+    },
+    {
+      "name": "AS-MidAged",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Age Slider",
+      "reference": "https://civitai.com/models/65214?modelVersionId=75557",
+      "filename": "AS-MidAged.pt",
+      "url": "https://civitai.com/api/download/models/75557"
+    },
+    {
+      "name": "AS-Elderly",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Age Slider",
+      "reference": "https://civitai.com/models/65214?modelVersionId=77257",
+      "filename": "AS-Elderly.pt",
+      "url": "https://civitai.com/api/download/models/77257"
+    },
+    {
+      "name": "AS-Adult-neg",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Age Slider Neg",
+      "reference": "https://civitai.com/models/65214?modelVersionId=74332",
+      "filename": "AS-Adult-neg.pt",
+      "url": "https://civitai.com/api/download/models/74332"
+    },
+    {
+      "name": "AS-YoungV2",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Age Slider",
+      "reference": "https://civitai.com/models/65214?modelVersionId=94703",
+      "filename": "AS-YoungV2.pt",
+      "url": "https://civitai.com/api/download/models/94703"
+    },
+    {
+      "name": "AS-YoungerV2",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Age Slider",
+      "reference": "https://civitai.com/models/65214?modelVersionId=95275",
+      "filename": "AS-YoungerV2.pt",
+      "url": "https://civitai.com/api/download/models/95275"
+    },
+    {
+      "name": "AS-YoungestV2",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Age Slider",
+      "reference": "https://civitai.com/models/65214?modelVersionId=95528",
+      "filename": "AS-YoungestV2.pt",
+      "url": "https://civitai.com/api/download/models/95528"
+    },
+    {
+      "name": "AS-Young-negV2",
+      "type": "embeddings",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Age Slider Neg",
+      "reference": "https://civitai.com/models/65214?modelVersionId=94765",
+      "filename": "AS-Young-negV2.pt",
+      "url": "https://civitai.com/api/download/models/94765"
+    },
+    {
+      "name": "Terada Tera",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/15446/terada-tera-art-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/18212"
+    },
+    {
+      "name": "ononoimoko",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/11794/gyokai-ononoimoko-art-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/13937"
+    },
+    {
+      "name": "Mochizuki Kei",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/12190/mochizuki-kei-art-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/14378"
+    },
+    {
+      "name": "Nou (Kairiki Bear)",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/12218/nou-art-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/18093"
+    },
+    {
+      "name": "ma*****tan",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/16695/matans-style-v20",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/24622"
+    },
+    {
+      "name": "Loish",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/19177/loish-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/22757"
+    },
+    {
+      "name": "JK Style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/7741/jk-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/9124"
+    },
+    {
+      "name": "Urushi",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/7227/urushi",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/24272"
+    },
+    {
+      "name": "uekura",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/17305/lohaloconlora-uekura-eku-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/29525"
+    },
+    {
+      "name": "sakimichan",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/21133/sakimichan-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/32445"
+    },
+    {
+      "name": "chichi style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/22992/chichi-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/32033"
+    },
+    {
+      "name": "fake van gogh",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/26751/fake-van-gogh-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/32017"
+    },
+    {
+      "name": "clonion style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/34683/clonion-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/46443"
+    },
+    {
+      "name": "neonbeat",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/24301/neonbeat-artstyle-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/29050"
+    },
+    {
+      "name": "GopherIotaStyle",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/23898/gopheriotastyle",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/28560"
+    },
+    {
+      "name": "Lemudon",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/22482/lemudon-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/26844"
+    },
+    {
+      "name": "Mikan Style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/22397/loconlora-mikan-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/26738"
+    },
+    {
+      "name": "Ken Sugimori 1990s",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/21807/ken-sugimori-1990s-classic-pokemon-trainers-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/26028"
+    },
+    {
+      "name": "Ilya Kuvshinov",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/18757/ilya-kuvshinov-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/22268"
+    },
+    {
+      "name": "haruno_168",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/14159/haruno168-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/16664"
+    },
+    {
+      "name": "Yoshitaka Amano",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/4776/yoshitaka-amano-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/63343"
+    },
+    {
+      "name": "Tetsuya Nomura",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/5287/tetsuya-nomura-kingdom-hearts-final-fantasy-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/6130"
+    },
+    {
+      "name": "Bacun",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/18051/bacunstyle",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/21340"
+    },
+    {
+      "name": "ALGL",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/16200/alglold-style-of",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/19133"
+    },
+    {
+      "name": "Nardack",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/16039/loconlora-nardack-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/18933"
+    },
+    {
+      "name": "namoridane",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/15788/namoridane",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/18811"
+    },
+    {
+      "name": "Rizdraws",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/14879/rizdraws-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/17531"
+    },
+    {
+      "name": "Rolua",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/7893/rolua-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/9307"
+    },
+    {
+      "name": "Umemaro",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/10376/umemaro-or-style-lora-191",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/12337"
+    },
+    {
+      "name": "Ixy Art",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/11648/ixy-art-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/13769"
+    },
+    {
+      "name": "Komowata Haruka",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/9922/komowata-haruka-chibi-art-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/14467"
+    },
+    {
+      "name": "TOKIAME",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/5280/tokiame-style-thick-outlines-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/6123"
+    },
+    {
+      "name": "LAM",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/13517/lam-ramdayo-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/17710"
+    },
+    {
+      "name": "Mika Pikazo",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/8479/mika-pikazo-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/9996"
+    },
+    {
+      "name": "Keke Style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/10809/toru8p-keke-artstyle",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/22278"
+    },
+    {
+      "name": "khyle",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/24641/khyle-style-definitive-72mb",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/29479"
+    },
+    {
+      "name": "Akabur",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/24359/akabur-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/29119"
+    },
+    {
+      "name": "Style under Jrpencil",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/24320/style-under-jrpencil",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/29074"
+    },
+    {
+      "name": "Feef",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/23426/feef-artstyle",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/27971"
+    },
+    {
+      "name": "Darkcookie",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/7304/darkcookie-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/8587"
+    },
+    {
+      "name": "Good day girl style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/12765/good-day-girl-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/15046"
+    },
+    {
+      "name": "Bone Nig",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/12888/bonenig-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/15183"
+    },
+    {
+      "name": "Enaic31",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/7080/enaic31-artstyle-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/8326"
+    },
+    {
+      "name": "kitty puddin",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/24892/kitty-puddin-aka-sinner-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/31414"
+    },
+    {
+      "name": "Mazastyle",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/20834/esthetic-maza-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/24798"
+    },
+    {
+      "name": "Kamepan",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/22279/kamepan-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/50456"
+    },
+    {
+      "name": "Op na yarou",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/22300/op-na-yarou-anime-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/26626"
+    },
+    {
+      "name": "Andava",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/17405/andava-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/20576"
+    },
+    {
+      "name": "John Kafka",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/7090/john-kafka-artstyle-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/8334"
+    },
+    {
+      "name": "OptionalTypo",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/9220/optionaltypo-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/10931"
+    },
+    {
+      "name": "Slugbox",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/9929/slugbox-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/11798"
+    },
+    {
+      "name": "Motomurabito",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/11608/motomurabito-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/13728"
+    },
+    {
+      "name": "SamDoesArts",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/6638/samdoesarts-sam-yang-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/7804"
+    },
+    {
+      "name": "Yaro",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/8112/yaro-artstyle-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/9577"
+    },
+    {
+      "name": "Toriyama Akira",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/4857/akira-toriyama-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/5737"
+    },
+    {
+      "name": "waves art style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/58983/waves-art-style-or-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/63436"
+    },
+    {
+      "name": "Wojack",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/49886/wojak-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/63309"
+    },
+    {
+      "name": "makaroll",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/50159/makaroll-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/54692"
+    },
+    {
+      "name": "hiramedousa",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/57866/hiramedousa-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/62311"
+    },
+    {
+      "name": "Drunkoak",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/45570/drunkoak-artist-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/50197"
+    },
+    {
+      "name": "Dropkun",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/59214/dropkun-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/63662"
+    },
+    {
+      "name": "Tori Style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/59119/tori-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/63587"
+    },
+    {
+      "name": "Yoneyama Mai",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/11701/yoneyama-mai-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/26660"
+    },
+    {
+      "name": "Vivid Impactful Style (Mai Like)",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/21722/vivid-impactful-style-yoneyama-mai-style-likeness-loralocon",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/33016"
+    },
+    {
+      "name": "Soejima Shigenori",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/6025/persona-catherine-soejima-shigenori-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/7023"
+    },
+    {
+      "name": "Vanripperart",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/12325/vanripperart-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/14534"
+    },
+    {
+      "name": "Akihiko Yoshida",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/5558/akihiko-yoshida-bravely-default-ff-tactics-nier-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/6469"
+    },
+    {
+      "name": "Nukunuku Nigirimeshi",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/12239/nukunuku-nigirimeshi-art-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/14433"
+    },
+    {
+      "name": "Neg",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/13350/neg-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/15732"
+    },
+    {
+      "name": "Lentiyay",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/13541/lentiyay-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/15952"
+    },
+    {
+      "name": "NEL",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/23037/nel-cookie",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/27514"
+    },
+    {
+      "name": "Mery",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/13694/mery-art-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/16130"
+    },
+    {
+      "name": "Mishi Style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/7890/mishi-pastel-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/9303"
+    },
+    {
+      "name": "Atelier GONS",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/17196/atelier-gons-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/20301"
+    },
+    {
+      "name": "Aetherion",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/10864/aetherion-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/12890"
+    },
+    {
+      "name": "off8mile 278 Style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/7315/mile-off8mile-278-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/12798"
+    },
+    {
+      "name": "Cute 2D Style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/18112/cute-2d-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/21422"
+    },
+    {
+      "name": "Fua Yuu",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/57954/fua-yuu-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/62416"
+    },
+    {
+      "name": "Cierra",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/56528/cierra-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/60947"
+    },
+    {
+      "name": "Dledumb style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/56101/dledumb-style-operation-pure-love",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/60500"
+    },
+    {
+      "name": "korukoruno",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/55938/korukoruno-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/60333"
+    },
+    {
+      "name": "Mdf_an",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/55650/mdfan-artist-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/60055"
+    },
+    {
+      "name": "Puparia",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/55330/puparia-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/59707"
+    },
+    {
+      "name": "sheyatin",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/55029/sheyatin-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/59417"
+    },
+    {
+      "name": "Pina Artstyle",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/54424/pina-artstyle-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/58787"
+    },
+    {
+      "name": "Chroma Style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/53333/chroma-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/57702"
+    },
+    {
+      "name": "Splashbrush",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/57398/style-splashbrush",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/61823"
+    },
+    {
+      "name": "Fluffydango",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/57594/fluffydango-artist-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/62022"
+    },
+    {
+      "name": "GangGuru",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/57604/gangguru-style-by-lora-factory",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/62034"
+    },
+    {
+      "name": "OdaNon",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/7955/oda-non-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/9379"
+    },
+    {
+      "name": "gharliera",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/57305/gharliera-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/61712"
+    },
+    {
+      "name": "3Q Style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/55786/3q-style-by-lora-factory",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/60182"
+    },
+    {
+      "name": "YukiKaoriStyle",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/46768/yukikaoristyle",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/58586"
+    },
+    {
+      "name": "Tico Style",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/53080/tico-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/57450"
+    },
+    {
+      "name": "Doyora",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/53174/doyora-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/57554"
+    },
+    {
+      "name": "Bumblesteak",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/24459/bumblesteak-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/57099"
+    },
+    {
+      "name": "gigzagu123",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/51986/gigzagu123-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/56443"
+    },
+    {
+      "name": "Sheya",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/50239/sheya-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/54766"
+    },
+    {
+      "name": "Takato Yamamoto",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/50288/takato-yamamoto-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/54820"
+    },
+    {
+      "name": "rasusurasu",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/50577/style-rasusurasu-lora-v01",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/55091"
+    },
+    {
+      "name": "Lasterk",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/8733/lasterk-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/18536"
+    },
+    {
+      "name": "Ibukichi",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/48156/ibukichi-artist-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/52770"
+    },
+    {
+      "name": "Massakasama",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/47272/massakasama-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/51849"
+    },
+    {
+      "name": "Paul Rubens",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/45559/rubens-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/50183"
+    },
+    {
+      "name": "Kionant",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/44627/kionant-artist-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/49257"
+    },
+    {
+      "name": "AidaIro",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/44389/aidairo-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/49019"
+    },
+    {
+      "name": "Hungry Clicker",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/41423/hungry-clicker-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/47077"
+    },
+    {
+      "name": "Moon_Project",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/40997/moonproject-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/46067"
+    },
+    {
+      "name": "Guihuagao",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/35479/guihuagao-some-sort-of-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/41705"
+    },
+    {
+      "name": "Defaultz",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/33601/defaultz-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/39895"
+    },
+    {
+      "name": "QuAn Avatar Art",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/31746/quan-avatar-art-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/39188"
+    },
+    {
+      "name": "Komatsuzaki Rui",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/28170/komatsuzaki-rui-danganronpa-artist-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/33940"
+    },
+    {
+      "name": "Torino Aqua",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/5126/torino-aqua-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/5940"
+    },
+    {
+      "name": "ratatatat74",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/4844/ratatatat74-style-lora",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/5571"
+    },
+    {
+      "name": "Metata",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/16282/metata-style",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/19227"
+    },
+    {
+      "name": "Style15",
+      "type": "lora",
+      "base": "SD1.5",
+      "save_path": "default",
+      "description": "Artist Style",
+      "reference": "https://civitai.com/models/23279/style15",
+      "filename": "N/A",
+      "url": "https://civitai.com/api/download/models/27801"
     }
   ]  
 }
